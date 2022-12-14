@@ -7,7 +7,7 @@
 
 /* Color Palette */
 :root {
-   --white: #f3f3f3;
+   --white: #f9f9f9;
    --blue: #0466c8;
 }
 
@@ -19,4 +19,8 @@
 
 * {
    font-family: 'Arial Rounded MT Bold';
+}
+
+body {
+   background-color: var(--white);
 }
